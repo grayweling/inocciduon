@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/grayweling/inocciduon/issues"
   },
-  "homepage": "https://github.com/grayweling/inocciduon#readme"
+  "homepage": "https://github.com/grayweling/inocciduon#readme",
+  "devDependencies": {
+    "concurrently": "^5.3.0"
+  }
 }
